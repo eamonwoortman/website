@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Anticheat &#8211; Eamon Woortman</title>
-	<atom:link href="https://eamonwoortman.github.io/website/project-tag/anticheat/feed/" rel="self" type="application/rss+xml" />
-	<link>https://eamonwoortman.github.io/website/</link>
+	<atom:link href="https://eamonwoortman.github.io/project-tag/anticheat/feed/" rel="self" type="application/rss+xml" />
+	<link>https://eamonwoortman.github.io/</link>
 	<description></description>
 	<lastBuildDate>Sat, 20 May 2023 18:54:32 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>RTCW 1.0PB</title>
-		<link>https://eamonwoortman.github.io/website/project/rtcw-1-0pb/</link>
-					<comments>https://eamonwoortman.github.io/website/project/rtcw-1-0pb/#respond</comments>
+		<link>https://eamonwoortman.github.io/project/rtcw-1-0pb/</link>
+					<comments>https://eamonwoortman.github.io/project/rtcw-1-0pb/#respond</comments>
 		
 		<dc:creator><![CDATA[eamon]]></dc:creator>
 		<pubDate>Fri, 19 May 2023 18:36:47 +0000</pubDate>
@@ -55,11 +55,11 @@
 
 
 
-<figure class="wp-block-image"><a href="//eamonwoortman.nl/wp-content/uploads/2016/11/rtcw10pb2.jpg"><img fetchpriority="high" decoding="async" width="300" height="240" src="//eamonwoortman.nl/wp-content/uploads/2016/11/rtcw10pb2-300x240.jpg" alt="" class="wp-image-17" srcset="https://eamonwoortman.github.io/website/wp-content/uploads/2016/11/rtcw10pb2-300x240.jpg 300w, https://eamonwoortman.github.io/website/wp-content/uploads/2016/11/rtcw10pb2-768x614.jpg 768w, https://eamonwoortman.github.io/website/wp-content/uploads/2016/11/rtcw10pb2-1024x819.jpg 1024w, https://eamonwoortman.github.io/website/wp-content/uploads/2016/11/rtcw10pb2-252x201.jpg 252w, https://eamonwoortman.github.io/website/wp-content/uploads/2016/11/rtcw10pb2-104x84.jpg 104w, https://eamonwoortman.github.io/website/wp-content/uploads/2016/11/rtcw10pb2.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure>
+<figure class="wp-block-image"><a href="//eamonwoortman.nl/wp-content/uploads/2016/11/rtcw10pb2.jpg"><img fetchpriority="high" decoding="async" width="300" height="240" src="//eamonwoortman.nl/wp-content/uploads/2016/11/rtcw10pb2-300x240.jpg" alt="" class="wp-image-17" srcset="https://eamonwoortman.github.io/wp-content/uploads/2016/11/rtcw10pb2-300x240.jpg 300w, https://eamonwoortman.github.io/wp-content/uploads/2016/11/rtcw10pb2-768x614.jpg 768w, https://eamonwoortman.github.io/wp-content/uploads/2016/11/rtcw10pb2-1024x819.jpg 1024w, https://eamonwoortman.github.io/wp-content/uploads/2016/11/rtcw10pb2-252x201.jpg 252w, https://eamonwoortman.github.io/wp-content/uploads/2016/11/rtcw10pb2-104x84.jpg 104w, https://eamonwoortman.github.io/wp-content/uploads/2016/11/rtcw10pb2.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure>
 
 
 
-<figure class="wp-block-image"><a href="https://eamonwoortman.github.io/website/wp-content/uploads/2016/11/rtcw10pb1k.jpg"><img decoding="async" width="170" height="128" src="https://eamonwoortman.github.io/website/wp-content/uploads/2016/11/rtcw10pb1k.jpg" alt="" class="wp-image-11"/></a></figure>
+<figure class="wp-block-image"><a href="https://eamonwoortman.github.io/wp-content/uploads/2016/11/rtcw10pb1k.jpg"><img decoding="async" width="170" height="128" src="https://eamonwoortman.github.io/wp-content/uploads/2016/11/rtcw10pb1k.jpg" alt="" class="wp-image-11"/></a></figure>
 
 
 		<div
@@ -71,15 +71,15 @@
 		></div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://eamonwoortman.github.io/website/project/rtcw-1-0pb/feed/</wfw:commentRss>
+					<wfw:commentRss>https://eamonwoortman.github.io/project/rtcw-1-0pb/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>WolfTV 1.0</title>
-		<link>https://eamonwoortman.github.io/website/project/wolftv-1-0/</link>
-					<comments>https://eamonwoortman.github.io/website/project/wolftv-1-0/#respond</comments>
+		<link>https://eamonwoortman.github.io/project/wolftv-1-0/</link>
+					<comments>https://eamonwoortman.github.io/project/wolftv-1-0/#respond</comments>
 		
 		<dc:creator><![CDATA[eamon]]></dc:creator>
 		<pubDate>Mon, 13 Feb 2017 18:36:00 +0000</pubDate>
@@ -98,15 +98,15 @@
 <p>The original version he created was not compatible with Return To Castle Wolfenstein 1.0.<br>Despite its flaws, there were still alot of players which played RtCW 1.0 and also in a competitive way. One of these players, Orange, asked me to see if we can make it work for RtCW 1.0.<br>After some debugging with OllyDbg and trial and error, I managed to bypass the protocol check and change some information sent on connect and to the master server.<br>This resulted in a working WolfTV server for RtCW 1.0.<br>Unfortunately after searching for a while, I was unable to find any binaries.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://eamonwoortman.github.io/website/project/wolftv-1-0/feed/</wfw:commentRss>
+					<wfw:commentRss>https://eamonwoortman.github.io/project/wolftv-1-0/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Mousetrap 3</title>
-		<link>https://eamonwoortman.github.io/website/project/mousetrap-3/</link>
-					<comments>https://eamonwoortman.github.io/website/project/mousetrap-3/#respond</comments>
+		<link>https://eamonwoortman.github.io/project/mousetrap-3/</link>
+					<comments>https://eamonwoortman.github.io/project/mousetrap-3/#respond</comments>
 		
 		<dc:creator><![CDATA[eamon]]></dc:creator>
 		<pubDate>Sun, 01 Jan 2017 18:45:00 +0000</pubDate>
@@ -174,14 +174,14 @@
 
 
 
-<p>I did this project in 2009 and I wasn’t the experienced developer I am now so it was all a bit messy.<br>The setup worked quite good but people were reluctant of installing it because it meant they had to manually install stuff. Also most of the server admins didn’t want to cooperate because they were scared of losing players. In the end I shut the project down because there wasn’t enough interest in it and I started with the <a href="https://eamonwoortman.github.io/website/project/rtcw-1-0pb/" data-type="URL" data-id="https://eamonwoortman.github.io/website/project/rtcw-1-0pb/" target="_blank" rel="noreferrer noopener">RTCW 1.0PB project</a> which worked better anyway.</p>
+<p>I did this project in 2009 and I wasn’t the experienced developer I am now so it was all a bit messy.<br>The setup worked quite good but people were reluctant of installing it because it meant they had to manually install stuff. Also most of the server admins didn’t want to cooperate because they were scared of losing players. In the end I shut the project down because there wasn’t enough interest in it and I started with the <a href="https://eamonwoortman.github.io/project/rtcw-1-0pb/" data-type="URL" data-id="https://eamonwoortman.github.io/project/rtcw-1-0pb/" target="_blank" rel="noreferrer noopener">RTCW 1.0PB project</a> which worked better anyway.</p>
 
 
 
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://eamonwoortman.github.io/website/project/mousetrap-3/feed/</wfw:commentRss>
+					<wfw:commentRss>https://eamonwoortman.github.io/project/mousetrap-3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
