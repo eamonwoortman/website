@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Unity &#8211; Eamon Woortman</title>
-	<atom:link href="https://eamonwoortman.github.io/tag/unity/feed/" rel="self" type="application/rss+xml" />
+	<title>General &#8211; Eamon Woortman</title>
+	<atom:link href="https://eamonwoortman.github.io/category/general/feed/" rel="self" type="application/rss+xml" />
 	<link>https://eamonwoortman.github.io/</link>
 	<description></description>
 	<lastBuildDate>Sun, 21 May 2023 07:47:38 +0000</lastBuildDate>
@@ -733,6 +733,84 @@ The only app which I haven’t verified whether it would fix the crash on the sp
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://eamonwoortman.github.io/openssl-binary-patching/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Docker Hub Profile WordPress widget</title>
+		<link>https://eamonwoortman.github.io/dockerhub-profile-wordpress-widget/</link>
+					<comments>https://eamonwoortman.github.io/dockerhub-profile-wordpress-widget/#respond</comments>
+		
+		<dc:creator><![CDATA[eamon]]></dc:creator>
+		<pubDate>Sun, 26 Feb 2017 17:32:25 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<guid isPermaLink="false">http://eamonwoortman.nl/?p=379</guid>
+
+					<description><![CDATA[Docker Hub Profile widget is a WordPress widget that displays the basic profile information and repositories of a Docker Hub user. Motivation When working on my website I came across this neat WordPress Github profile plugin by James Valentine. It&#8217;s a simple but clear widget which displays Github user information. Having a couple of Docker [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Docker Hub Profile widget is a WordPress widget that displays the basic profile information and repositories of a Docker Hub user.</p>
+<p><span id="more-379"></span></p>
+<h3>Motivation</h3>
+<p>When working on my website I came across this neat <a href="http://f13dev.com/2016/07/13/wordpress-plugin-github-profile-widget/">WordPress Github profile plugin</a> by James Valentine. It&#8217;s a simple but clear widget which displays Github user information. Having a couple of Docker Hub repositories of my own, I decided to create a similar widget for Docker Hub users.</p>
+<p>So I forked the Jame&#8217;s Github Profile Widget plugin and started changing API calls and ultimately changing the style of the widget. This resulted in the Docker Hub Profile widget.</p>
+<p>Grab the sourcecode from: <a href="https://github.com/eamonwoortman/wp-dockerhub-profile-widget">https://github.com/eamonwoortman/wp-dockerhub-profile-widget</a></p>
+<h3>Summary</h3>
+<p>The widget plugin features include:</p>
+<ul>
+<li>Stylized widget inspired by the Docker Hub website</li>
+<li>Showing the users avatar</li>
+<li>Showing some user information like;
+<ul>
+<li>Username</li>
+<li>Join date</li>
+<li>Repositories starred,</li>
+<li>Amount of public repositories</li>
+</ul>
+</li>
+<li>A list of the popular repositories by the user, including the amount of stars and pulls for each repository</li>
+<li>A cached result of the widget using Transient, the cache timout can be adjusted via the widget settings</li>
+</ul>
+<h3>Installation</h3>
+<p>This section describes how to install the plugin and get it working.</p>
+<ol>
+<li>Upload the plugin files to the <code>/wp-content/plugins/plugin-name</code> directory, or install the plugin through the WordPress plugins screen directly.</li>
+<li>Activate the plugin through the &#8216;Plugins&#8217; screen in WordPress</li>
+<li>Add the widget to your desired location in Appearance-&gt;Widgets</li>
+<li>Enter your Docker Hub username in the appropriate field</li>
+</ol>
+<h3>Screenshot</h3>
+<p><a href="//eamonwoortman.nl/wp-content/uploads/2017/02/DockerHubProfile.png" target="_blank"><img fetchpriority="high" decoding="async" class="alignnone wp-image-442 size-medium" src="//eamonwoortman.nl/wp-content/uploads/2017/02/DockerHubProfile-271x300.png" width="271" height="300" srcset="https://eamonwoortman.github.io/wp-content/uploads/2017/02/DockerHubProfile-271x300.png 271w, https://eamonwoortman.github.io/wp-content/uploads/2017/02/DockerHubProfile.png 285w" sizes="(max-width: 271px) 100vw, 271px" /></a> <a href="//eamonwoortman.nl/wp-content/uploads/2017/02/DockerHubProfileAddWidget.png" target="_blank"><img decoding="async" class="alignnone wp-image-443 size-medium" src="//eamonwoortman.nl/wp-content/uploads/2017/02/DockerHubProfileAddWidget-184x300.png" width="184" height="300" srcset="https://eamonwoortman.github.io/wp-content/uploads/2017/02/DockerHubProfileAddWidget-184x300.png 184w, https://eamonwoortman.github.io/wp-content/uploads/2017/02/DockerHubProfileAddWidget.png 295w" sizes="(max-width: 184px) 100vw, 184px" /></a></p>
+<h3>Credits</h3>
+<p>Credits goes to <a href="http://f13dev.com/">James Valentine</a> for creating the original <a href="https://github.com/f13dev/wp-github-profile-widget">Github Profile Widget</a>. I merely changed the API calls and visuals of his plugin so go to his <a href="https://github.com/f13dev/wp-github-profile-widget">repository and star him</a>.</p>
+<p>Credits go to the Github team for their &#8220;star.svg&#8221; and &#8220;cloud-download.svg&#8221; from: <a href="https://github.com/primer/octicons/tree/master/lib/svg">https://github.com/primer/octicons/tree/master/lib/svg</a></p>
+<h3>Docker Copyright notice</h3>
+<p><em>Docker, Inc is the exclusive owner of the trademarks DOCKER, Docker Whale Design, Dockerfile, Docker Swarm, Dockerize It and any other word, phrase, image, or other designation that identifies the source or origin of any of Docker’s products (collectively referred to herein as the “Docker Marks”). To protect its trademark rights, Docker, Inc is required to control the use of its marks by others and the quality of the services with which they are used by permission. Therefore, Docker is willing to permit selected parties to make limited use of the Docker Marks only in accordance with these Guidelines.</em></p>
+<p><em>By using the Docker Marks as permitted below, you agree to follow these usage guidelines, The Trademark Guidelines, our Terms of service and all Docker&#8217;s rules and policies. These guidelines, rules and policies only apply to your nominative use of the Docker Marks to refer to products or services that come from Docker, and Docker is not granting you any license to use the Docker Marks, in the legal sense of “use,” in connection with the promotion of your own goods or services. Docker reserves the right to cancel, modify, or change the permission in this policy at any time at its sole discretion, or to terminate or revoke any license that is implied or inadvertently granted by these guidelines, rules and policies. For further information about the use of the Docker name and trademarks, please contact legal at docker.com.</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://eamonwoortman.github.io/dockerhub-profile-wordpress-widget/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New website!</title>
+		<link>https://eamonwoortman.github.io/new-website/</link>
+					<comments>https://eamonwoortman.github.io/new-website/#respond</comments>
+		
+		<dc:creator><![CDATA[eamon]]></dc:creator>
+		<pubDate>Tue, 24 Jan 2017 16:39:25 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<guid isPermaLink="false">http://eamonwoortman.nl/?p=172</guid>
+
+					<description><![CDATA[It has been a while since I had a proper blog / portfolio, so I decided to create one from scratch (content wise). On this blog you can follow my latest projects or revisit some old archived projects I&#8217;ve done. I&#8217;m also planning on writing about (game-related) technical subjects like Continuous Delivery, Docker and perhaps [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>It has been a while since I had a proper blog / portfolio, so I decided to create one from scratch (content wise).</p>
+<p>On this blog you can follow my latest projects or revisit some old archived projects I&#8217;ve done.<span id="more-172"></span></p>
+<p>I&#8217;m also planning on writing about (game-related) technical subjects like Continuous Delivery, Docker and perhaps some engine specific subjects.</p>
+<p>If you have any specific questions, check out the <a href="//eamonwoortman.nl/contact/">contact page</a> to find out how to contact me.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://eamonwoortman.github.io/new-website/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
