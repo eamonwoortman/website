@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Eamon Woortman</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://eamonwoortman.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://eamonwoortman.github.io/</link>
 	<description></description>
 	<lastBuildDate>Sun, 21 May 2023 07:47:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>OpenSSL binary patching</title>
-		<link>/openssl-binary-patching/</link>
-					<comments>/openssl-binary-patching/#respond</comments>
+		<link>https://eamonwoortman.github.io/openssl-binary-patching/</link>
+					<comments>https://eamonwoortman.github.io/openssl-binary-patching/#respond</comments>
 		
 		<dc:creator><![CDATA[eamon]]></dc:creator>
 		<pubDate>Sat, 20 May 2023 20:46:52 +0000</pubDate>
@@ -195,7 +195,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" src="/wp-content/uploads/2023/05/image.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://eamonwoortman.github.io/wp-content/uploads/2023/05/image.png" alt=""/></figure>
 
 
 
@@ -235,7 +235,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" src="/wp-content/uploads/2023/05/image-1-1024x278.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://eamonwoortman.github.io/wp-content/uploads/2023/05/image-1-1024x278.png" alt=""/></figure>
 
 
 
@@ -259,7 +259,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" src="/wp-content/uploads/2023/05/image-2-1024x615.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://eamonwoortman.github.io/wp-content/uploads/2023/05/image-2-1024x615.png" alt=""/></figure>
 
 
 
@@ -303,7 +303,7 @@ cmovnz  rsi, rax" style="color:#adbac7;display:none" aria-label="Copy" class="co
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" src="/wp-content/uploads/2023/05/image-3-1024x590.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://eamonwoortman.github.io/wp-content/uploads/2023/05/image-3-1024x590.png" alt=""/></figure>
 
 
 
@@ -732,15 +732,15 @@ The only app which I haven’t verified whether it would fix the crash on the sp
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/openssl-binary-patching/feed/</wfw:commentRss>
+					<wfw:commentRss>https://eamonwoortman.github.io/openssl-binary-patching/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Docker Hub Profile WordPress widget</title>
-		<link>/dockerhub-profile-wordpress-widget/</link>
-					<comments>/dockerhub-profile-wordpress-widget/#respond</comments>
+		<link>https://eamonwoortman.github.io/dockerhub-profile-wordpress-widget/</link>
+					<comments>https://eamonwoortman.github.io/dockerhub-profile-wordpress-widget/#respond</comments>
 		
 		<dc:creator><![CDATA[eamon]]></dc:creator>
 		<pubDate>Sun, 26 Feb 2017 17:32:25 +0000</pubDate>
@@ -779,7 +779,7 @@ The only app which I haven’t verified whether it would fix the crash on the sp
 <li>Enter your Docker Hub username in the appropriate field</li>
 </ol>
 <h3>Screenshot</h3>
-<p><a href="//eamonwoortman.nl/wp-content/uploads/2017/02/DockerHubProfile.png" target="_blank"><img fetchpriority="high" decoding="async" class="alignnone wp-image-442 size-medium" src="//eamonwoortman.nl/wp-content/uploads/2017/02/DockerHubProfile-271x300.png" width="271" height="300" srcset="/wp-content/uploads/2017/02/DockerHubProfile-271x300.png 271w, /wp-content/uploads/2017/02/DockerHubProfile.png 285w" sizes="(max-width: 271px) 100vw, 271px" /></a> <a href="//eamonwoortman.nl/wp-content/uploads/2017/02/DockerHubProfileAddWidget.png" target="_blank"><img decoding="async" class="alignnone wp-image-443 size-medium" src="//eamonwoortman.nl/wp-content/uploads/2017/02/DockerHubProfileAddWidget-184x300.png" width="184" height="300" srcset="/wp-content/uploads/2017/02/DockerHubProfileAddWidget-184x300.png 184w, /wp-content/uploads/2017/02/DockerHubProfileAddWidget.png 295w" sizes="(max-width: 184px) 100vw, 184px" /></a></p>
+<p><a href="//eamonwoortman.nl/wp-content/uploads/2017/02/DockerHubProfile.png" target="_blank"><img fetchpriority="high" decoding="async" class="alignnone wp-image-442 size-medium" src="//eamonwoortman.nl/wp-content/uploads/2017/02/DockerHubProfile-271x300.png" width="271" height="300" srcset="https://eamonwoortman.github.io/wp-content/uploads/2017/02/DockerHubProfile-271x300.png 271w, https://eamonwoortman.github.io/wp-content/uploads/2017/02/DockerHubProfile.png 285w" sizes="(max-width: 271px) 100vw, 271px" /></a> <a href="//eamonwoortman.nl/wp-content/uploads/2017/02/DockerHubProfileAddWidget.png" target="_blank"><img decoding="async" class="alignnone wp-image-443 size-medium" src="//eamonwoortman.nl/wp-content/uploads/2017/02/DockerHubProfileAddWidget-184x300.png" width="184" height="300" srcset="https://eamonwoortman.github.io/wp-content/uploads/2017/02/DockerHubProfileAddWidget-184x300.png 184w, https://eamonwoortman.github.io/wp-content/uploads/2017/02/DockerHubProfileAddWidget.png 295w" sizes="(max-width: 184px) 100vw, 184px" /></a></p>
 <h3>Credits</h3>
 <p>Credits goes to <a href="http://f13dev.com/">James Valentine</a> for creating the original <a href="https://github.com/f13dev/wp-github-profile-widget">Github Profile Widget</a>. I merely changed the API calls and visuals of his plugin so go to his <a href="https://github.com/f13dev/wp-github-profile-widget">repository and star him</a>.</p>
 <p>Credits go to the Github team for their &#8220;star.svg&#8221; and &#8220;cloud-download.svg&#8221; from: <a href="https://github.com/primer/octicons/tree/master/lib/svg">https://github.com/primer/octicons/tree/master/lib/svg</a></p>
@@ -788,15 +788,15 @@ The only app which I haven’t verified whether it would fix the crash on the sp
 <p><em>By using the Docker Marks as permitted below, you agree to follow these usage guidelines, The Trademark Guidelines, our Terms of service and all Docker&#8217;s rules and policies. These guidelines, rules and policies only apply to your nominative use of the Docker Marks to refer to products or services that come from Docker, and Docker is not granting you any license to use the Docker Marks, in the legal sense of “use,” in connection with the promotion of your own goods or services. Docker reserves the right to cancel, modify, or change the permission in this policy at any time at its sole discretion, or to terminate or revoke any license that is implied or inadvertently granted by these guidelines, rules and policies. For further information about the use of the Docker name and trademarks, please contact legal at docker.com.</em></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/dockerhub-profile-wordpress-widget/feed/</wfw:commentRss>
+					<wfw:commentRss>https://eamonwoortman.github.io/dockerhub-profile-wordpress-widget/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>New website!</title>
-		<link>/new-website/</link>
-					<comments>/new-website/#respond</comments>
+		<link>https://eamonwoortman.github.io/new-website/</link>
+					<comments>https://eamonwoortman.github.io/new-website/#respond</comments>
 		
 		<dc:creator><![CDATA[eamon]]></dc:creator>
 		<pubDate>Tue, 24 Jan 2017 16:39:25 +0000</pubDate>
@@ -810,7 +810,7 @@ The only app which I haven’t verified whether it would fix the crash on the sp
 <p>If you have any specific questions, check out the <a href="//eamonwoortman.nl/contact/">contact page</a> to find out how to contact me.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/new-website/feed/</wfw:commentRss>
+					<wfw:commentRss>https://eamonwoortman.github.io/new-website/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

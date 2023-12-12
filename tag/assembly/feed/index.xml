@@ -9,8 +9,8 @@
 
 <channel>
 	<title>assembly &#8211; Eamon Woortman</title>
-	<atom:link href="/tag/assembly/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://eamonwoortman.github.io/tag/assembly/feed/" rel="self" type="application/rss+xml" />
+	<link>https://eamonwoortman.github.io/</link>
 	<description></description>
 	<lastBuildDate>Sun, 21 May 2023 07:47:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>OpenSSL binary patching</title>
-		<link>/openssl-binary-patching/</link>
-					<comments>/openssl-binary-patching/#respond</comments>
+		<link>https://eamonwoortman.github.io/openssl-binary-patching/</link>
+					<comments>https://eamonwoortman.github.io/openssl-binary-patching/#respond</comments>
 		
 		<dc:creator><![CDATA[eamon]]></dc:creator>
 		<pubDate>Sat, 20 May 2023 20:46:52 +0000</pubDate>
@@ -195,7 +195,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" src="/wp-content/uploads/2023/05/image.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://eamonwoortman.github.io/wp-content/uploads/2023/05/image.png" alt=""/></figure>
 
 
 
@@ -235,7 +235,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" src="/wp-content/uploads/2023/05/image-1-1024x278.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://eamonwoortman.github.io/wp-content/uploads/2023/05/image-1-1024x278.png" alt=""/></figure>
 
 
 
@@ -259,7 +259,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" src="/wp-content/uploads/2023/05/image-2-1024x615.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://eamonwoortman.github.io/wp-content/uploads/2023/05/image-2-1024x615.png" alt=""/></figure>
 
 
 
@@ -303,7 +303,7 @@ cmovnz  rsi, rax" style="color:#adbac7;display:none" aria-label="Copy" class="co
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" src="/wp-content/uploads/2023/05/image-3-1024x590.png" alt=""/></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://eamonwoortman.github.io/wp-content/uploads/2023/05/image-3-1024x590.png" alt=""/></figure>
 
 
 
@@ -732,7 +732,7 @@ The only app which I haven’t verified whether it would fix the crash on the sp
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/openssl-binary-patching/feed/</wfw:commentRss>
+					<wfw:commentRss>https://eamonwoortman.github.io/openssl-binary-patching/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
