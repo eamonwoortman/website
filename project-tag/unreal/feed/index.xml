@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Unreal &#8211; Eamon Woortman</title>
-	<atom:link href="https://eamonwoortman.nl/project-tag/unreal/feed/" rel="self" type="application/rss+xml" />
-	<link>https://eamonwoortman.nl/</link>
+	<atom:link href="https://www.eamonwoortman.nl/project-tag/unreal/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.eamonwoortman.nl/</link>
 	<description></description>
 	<lastBuildDate>Sun, 21 May 2023 10:39:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>OpenSSL Universal Patcher</title>
-		<link>https://eamonwoortman.nl/project/openssl-universal-patcher/</link>
-					<comments>https://eamonwoortman.nl/project/openssl-universal-patcher/#respond</comments>
+		<link>https://www.eamonwoortman.nl/project/openssl-universal-patcher/</link>
+					<comments>https://www.eamonwoortman.nl/project/openssl-universal-patcher/#respond</comments>
 		
 		<dc:creator><![CDATA[eamon]]></dc:creator>
 		<pubDate>Sun, 21 May 2023 10:36:32 +0000</pubDate>
@@ -42,12 +42,12 @@
 
 
 
-<p>I wrote a blog post about creating a patch, so check out <a rel="noreferrer noopener" href="https://eamonwoortman.nl/openssl-binary-patching/" data-type="URL" data-id="https://eamonwoortman.nl/openssl-binary-patching/" target="_blank">this article</a> if you&#8217;re interested.</p>
+<p>I wrote a blog post about creating a patch, so check out <a rel="noreferrer noopener" href="https://www.eamonwoortman.nl/openssl-binary-patching/" data-type="URL" data-id="https://www.eamonwoortman.nl/openssl-binary-patching/" target="_blank">this article</a> if you&#8217;re interested.</p>
 
 
 
 <figure class="wp-block-embed is-type-wp-embed is-provider-eamon-woortman wp-block-embed-eamon-woortman"><div class="wp-block-embed__wrapper">
-<div class="oceanwp-oembed-wrap clr"><blockquote class="wp-embedded-content" data-secret="HsyB1FpROX"><a href="https://eamonwoortman.nl/openssl-binary-patching/">OpenSSL binary patching</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;OpenSSL binary patching&#8221; &#8212; Eamon Woortman" src="https://eamonwoortman.nl/openssl-binary-patching/embed/#?secret=MU65ZvhvIx#?secret=HsyB1FpROX" data-secret="HsyB1FpROX" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
+<div class="oceanwp-oembed-wrap clr"><blockquote class="wp-embedded-content" data-secret="HsyB1FpROX"><a href="https://www.eamonwoortman.nl/openssl-binary-patching/">OpenSSL binary patching</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;OpenSSL binary patching&#8221; &#8212; Eamon Woortman" src="https://www.eamonwoortman.nl/openssl-binary-patching/embed/#?secret=MU65ZvhvIx#?secret=HsyB1FpROX" data-secret="HsyB1FpROX" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
 </div></figure>
 
 
@@ -78,14 +78,14 @@ patched: 49 0F 45 F0" style="color:#adbac7;display:none" aria-label="Copy" class
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="247" src="https://eamonwoortman.nl/wp-content/uploads/2023/05/image-4-1024x247.png" alt="" class="wp-image-753" srcset="https://eamonwoortman.nl/wp-content/uploads/2023/05/image-4-1024x247.png 1024w, https://eamonwoortman.nl/wp-content/uploads/2023/05/image-4-300x72.png 300w, https://eamonwoortman.nl/wp-content/uploads/2023/05/image-4-768x185.png 768w, https://eamonwoortman.nl/wp-content/uploads/2023/05/image-4-1536x371.png 1536w, https://eamonwoortman.nl/wp-content/uploads/2023/05/image-4-2048x494.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Example usage on Unity Editor, Unreal game and Besiege game executables</figcaption></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="247" src="https://www.eamonwoortman.nl/wp-content/uploads/2023/05/image-4-1024x247.png" alt="" class="wp-image-753" srcset="https://www.eamonwoortman.nl/wp-content/uploads/2023/05/image-4-1024x247.png 1024w, https://www.eamonwoortman.nl/wp-content/uploads/2023/05/image-4-300x72.png 300w, https://www.eamonwoortman.nl/wp-content/uploads/2023/05/image-4-768x185.png 768w, https://www.eamonwoortman.nl/wp-content/uploads/2023/05/image-4-1536x371.png 1536w, https://www.eamonwoortman.nl/wp-content/uploads/2023/05/image-4-2048x494.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Example usage on Unity Editor, Unreal game and Besiege game executables</figcaption></figure>
 
 
 
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://eamonwoortman.nl/project/openssl-universal-patcher/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.eamonwoortman.nl/project/openssl-universal-patcher/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
