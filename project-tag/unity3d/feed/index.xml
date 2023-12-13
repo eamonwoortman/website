@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Unity3D &#8211; Eamon Woortman</title>
-	<atom:link href="https://eamonwoortman.github.io/project-tag/unity3d/feed/" rel="self" type="application/rss+xml" />
-	<link>https://eamonwoortman.github.io/</link>
+	<atom:link href="https://eamonwoortman.nl/project-tag/unity3d/feed/" rel="self" type="application/rss+xml" />
+	<link>https://eamonwoortman.nl/</link>
 	<description></description>
 	<lastBuildDate>Sun, 21 May 2023 10:39:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>OpenSSL Universal Patcher</title>
-		<link>https://eamonwoortman.github.io/project/openssl-universal-patcher/</link>
-					<comments>https://eamonwoortman.github.io/project/openssl-universal-patcher/#respond</comments>
+		<link>https://eamonwoortman.nl/project/openssl-universal-patcher/</link>
+					<comments>https://eamonwoortman.nl/project/openssl-universal-patcher/#respond</comments>
 		
 		<dc:creator><![CDATA[eamon]]></dc:creator>
 		<pubDate>Sun, 21 May 2023 10:36:32 +0000</pubDate>
@@ -42,12 +42,12 @@
 
 
 
-<p>I wrote a blog post about creating a patch, so check out <a rel="noreferrer noopener" href="https://eamonwoortman.github.io/openssl-binary-patching/" data-type="URL" data-id="https://eamonwoortman.github.io/openssl-binary-patching/" target="_blank">this article</a> if you&#8217;re interested.</p>
+<p>I wrote a blog post about creating a patch, so check out <a rel="noreferrer noopener" href="https://eamonwoortman.nl/openssl-binary-patching/" data-type="URL" data-id="https://eamonwoortman.nl/openssl-binary-patching/" target="_blank">this article</a> if you&#8217;re interested.</p>
 
 
 
 <figure class="wp-block-embed is-type-wp-embed is-provider-eamon-woortman wp-block-embed-eamon-woortman"><div class="wp-block-embed__wrapper">
-<div class="oceanwp-oembed-wrap clr"><blockquote class="wp-embedded-content" data-secret="HsyB1FpROX"><a href="https://eamonwoortman.github.io/openssl-binary-patching/">OpenSSL binary patching</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;OpenSSL binary patching&#8221; &#8212; Eamon Woortman" src="https://eamonwoortman.github.io/openssl-binary-patching/embed/#?secret=MU65ZvhvIx#?secret=HsyB1FpROX" data-secret="HsyB1FpROX" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
+<div class="oceanwp-oembed-wrap clr"><blockquote class="wp-embedded-content" data-secret="HsyB1FpROX"><a href="https://eamonwoortman.nl/openssl-binary-patching/">OpenSSL binary patching</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;OpenSSL binary patching&#8221; &#8212; Eamon Woortman" src="https://eamonwoortman.nl/openssl-binary-patching/embed/#?secret=MU65ZvhvIx#?secret=HsyB1FpROX" data-secret="HsyB1FpROX" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
 </div></figure>
 
 
@@ -78,22 +78,22 @@ patched: 49 0F 45 F0" style="color:#adbac7;display:none" aria-label="Copy" class
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="247" src="https://eamonwoortman.github.io/wp-content/uploads/2023/05/image-4-1024x247.png" alt="" class="wp-image-753" srcset="https://eamonwoortman.github.io/wp-content/uploads/2023/05/image-4-1024x247.png 1024w, https://eamonwoortman.github.io/wp-content/uploads/2023/05/image-4-300x72.png 300w, https://eamonwoortman.github.io/wp-content/uploads/2023/05/image-4-768x185.png 768w, https://eamonwoortman.github.io/wp-content/uploads/2023/05/image-4-1536x371.png 1536w, https://eamonwoortman.github.io/wp-content/uploads/2023/05/image-4-2048x494.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Example usage on Unity Editor, Unreal game and Besiege game executables</figcaption></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="247" src="https://eamonwoortman.nl/wp-content/uploads/2023/05/image-4-1024x247.png" alt="" class="wp-image-753" srcset="https://eamonwoortman.nl/wp-content/uploads/2023/05/image-4-1024x247.png 1024w, https://eamonwoortman.nl/wp-content/uploads/2023/05/image-4-300x72.png 300w, https://eamonwoortman.nl/wp-content/uploads/2023/05/image-4-768x185.png 768w, https://eamonwoortman.nl/wp-content/uploads/2023/05/image-4-1536x371.png 1536w, https://eamonwoortman.nl/wp-content/uploads/2023/05/image-4-2048x494.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Example usage on Unity Editor, Unreal game and Besiege game executables</figcaption></figure>
 
 
 
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://eamonwoortman.github.io/project/openssl-universal-patcher/feed/</wfw:commentRss>
+					<wfw:commentRss>https://eamonwoortman.nl/project/openssl-universal-patcher/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Continuous Delivery</title>
-		<link>https://eamonwoortman.github.io/project/continuous-delivery/</link>
-					<comments>https://eamonwoortman.github.io/project/continuous-delivery/#respond</comments>
+		<link>https://eamonwoortman.nl/project/continuous-delivery/</link>
+					<comments>https://eamonwoortman.nl/project/continuous-delivery/#respond</comments>
 		
 		<dc:creator><![CDATA[eamon]]></dc:creator>
 		<pubDate>Mon, 13 Feb 2017 18:20:00 +0000</pubDate>
@@ -109,10 +109,10 @@ patched: 49 0F 45 F0" style="color:#adbac7;display:none" aria-label="Copy" class
 
 
 
-<figure class="wp-block-image"><a href="//eamonwoortman.nl/wp-content/uploads/2017/01/teamcity-logo.png"><img decoding="async" width="300" height="76" src="//eamonwoortman.nl/wp-content/uploads/2017/01/teamcity-logo-300x76.png" alt="" class="wp-image-314" srcset="https://eamonwoortman.github.io/wp-content/uploads/2017/01/teamcity-logo-300x76.png 300w, https://eamonwoortman.github.io/wp-content/uploads/2017/01/teamcity-logo-768x194.png 768w, https://eamonwoortman.github.io/wp-content/uploads/2017/01/teamcity-logo-1024x259.png 1024w, https://eamonwoortman.github.io/wp-content/uploads/2017/01/teamcity-logo-150x38.png 150w, https://eamonwoortman.github.io/wp-content/uploads/2017/01/teamcity-logo.png 1169w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure>
+<figure class="wp-block-image"><a href="//eamonwoortman.nl/wp-content/uploads/2017/01/teamcity-logo.png"><img decoding="async" width="300" height="76" src="//eamonwoortman.nl/wp-content/uploads/2017/01/teamcity-logo-300x76.png" alt="" class="wp-image-314" srcset="https://eamonwoortman.nl/wp-content/uploads/2017/01/teamcity-logo-300x76.png 300w, https://eamonwoortman.nl/wp-content/uploads/2017/01/teamcity-logo-768x194.png 768w, https://eamonwoortman.nl/wp-content/uploads/2017/01/teamcity-logo-1024x259.png 1024w, https://eamonwoortman.nl/wp-content/uploads/2017/01/teamcity-logo-150x38.png 150w, https://eamonwoortman.nl/wp-content/uploads/2017/01/teamcity-logo.png 1169w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://eamonwoortman.github.io/project/continuous-delivery/feed/</wfw:commentRss>
+					<wfw:commentRss>https://eamonwoortman.nl/project/continuous-delivery/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

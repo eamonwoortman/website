@@ -9,8 +9,8 @@
 
 <channel>
 	<title>TeamCity &#8211; Eamon Woortman</title>
-	<atom:link href="https://eamonwoortman.github.io/project-tag/teamcity/feed/" rel="self" type="application/rss+xml" />
-	<link>https://eamonwoortman.github.io/</link>
+	<atom:link href="https://eamonwoortman.nl/project-tag/teamcity/feed/" rel="self" type="application/rss+xml" />
+	<link>https://eamonwoortman.nl/</link>
 	<description></description>
 	<lastBuildDate>Sat, 20 May 2023 18:29:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>Continuous Delivery</title>
-		<link>https://eamonwoortman.github.io/project/continuous-delivery/</link>
-					<comments>https://eamonwoortman.github.io/project/continuous-delivery/#respond</comments>
+		<link>https://eamonwoortman.nl/project/continuous-delivery/</link>
+					<comments>https://eamonwoortman.nl/project/continuous-delivery/#respond</comments>
 		
 		<dc:creator><![CDATA[eamon]]></dc:creator>
 		<pubDate>Mon, 13 Feb 2017 18:20:00 +0000</pubDate>
@@ -38,10 +38,10 @@
 
 
 
-<figure class="wp-block-image"><a href="//eamonwoortman.nl/wp-content/uploads/2017/01/teamcity-logo.png"><img decoding="async" width="300" height="76" src="//eamonwoortman.nl/wp-content/uploads/2017/01/teamcity-logo-300x76.png" alt="" class="wp-image-314" srcset="https://eamonwoortman.github.io/wp-content/uploads/2017/01/teamcity-logo-300x76.png 300w, https://eamonwoortman.github.io/wp-content/uploads/2017/01/teamcity-logo-768x194.png 768w, https://eamonwoortman.github.io/wp-content/uploads/2017/01/teamcity-logo-1024x259.png 1024w, https://eamonwoortman.github.io/wp-content/uploads/2017/01/teamcity-logo-150x38.png 150w, https://eamonwoortman.github.io/wp-content/uploads/2017/01/teamcity-logo.png 1169w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure>
+<figure class="wp-block-image"><a href="//eamonwoortman.nl/wp-content/uploads/2017/01/teamcity-logo.png"><img decoding="async" width="300" height="76" src="//eamonwoortman.nl/wp-content/uploads/2017/01/teamcity-logo-300x76.png" alt="" class="wp-image-314" srcset="https://eamonwoortman.nl/wp-content/uploads/2017/01/teamcity-logo-300x76.png 300w, https://eamonwoortman.nl/wp-content/uploads/2017/01/teamcity-logo-768x194.png 768w, https://eamonwoortman.nl/wp-content/uploads/2017/01/teamcity-logo-1024x259.png 1024w, https://eamonwoortman.nl/wp-content/uploads/2017/01/teamcity-logo-150x38.png 150w, https://eamonwoortman.nl/wp-content/uploads/2017/01/teamcity-logo.png 1169w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://eamonwoortman.github.io/project/continuous-delivery/feed/</wfw:commentRss>
+					<wfw:commentRss>https://eamonwoortman.nl/project/continuous-delivery/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
