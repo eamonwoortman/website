@@ -9,8 +9,8 @@
 
 <channel>
 	<title>NPAPI &#8211; Eamon Woortman</title>
-	<atom:link href="https://www.eamonwoortman.nl/project-tag/npapi/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.eamonwoortman.nl/</link>
+	<atom:link href="https://eamonwoortman.github.io/project-tag/npapi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://eamonwoortman.github.io/</link>
 	<description></description>
 	<lastBuildDate>Sat, 20 May 2023 18:57:46 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>ETLive</title>
-		<link>https://www.eamonwoortman.nl/project/etlive/</link>
-					<comments>https://www.eamonwoortman.nl/project/etlive/#respond</comments>
+		<link>https://eamonwoortman.github.io/project/etlive/</link>
+					<comments>https://eamonwoortman.github.io/project/etlive/#respond</comments>
 		
 		<dc:creator><![CDATA[eamon]]></dc:creator>
 		<pubDate>Sun, 01 Jan 2017 18:29:00 +0000</pubDate>
-				<guid isPermaLink="false">https://www.eamonwoortman.nl/?post_type=project&#038;p=581</guid>
+				<guid isPermaLink="false">https://eamonwoortman.github.io/?post_type=project&#038;p=581</guid>
 
 					<description><![CDATA[ETLive&#160;was a project that roughly started in 2011 which goal was to create a&#160;browser embedded version of Enemy Territory. Four years ago, we started with the idea to create a QuakeLive clone for Enemy Territory. We thought QuakeLive did an amazing job on the following components; Back then, the ET community was(and still is) divided [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -92,18 +92,18 @@
 
 
 
-<figure class="wp-block-image"><a href="//eamonwoortman.nl/wp-content/uploads/2017/01/Game.jpg"><img fetchpriority="high" decoding="async" width="300" height="169" src="https://www.eamonwoortman.nl/wp-content/uploads/2017/01/Game-300x169.jpg" alt="" class="wp-image-241" srcset="https://www.eamonwoortman.nl/wp-content/uploads/2017/01/Game-300x169.jpg 300w, https://www.eamonwoortman.nl/wp-content/uploads/2017/01/Game-768x432.jpg 768w, https://www.eamonwoortman.nl/wp-content/uploads/2017/01/Game-1024x576.jpg 1024w, https://www.eamonwoortman.nl/wp-content/uploads/2017/01/Game.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure>
+<figure class="wp-block-image"><a href="//eamonwoortman.nl/wp-content/uploads/2017/01/Game.jpg"><img fetchpriority="high" decoding="async" width="300" height="169" src="https://eamonwoortman.github.io/wp-content/uploads/2017/01/Game-300x169.jpg" alt="" class="wp-image-241" srcset="https://eamonwoortman.github.io/wp-content/uploads/2017/01/Game-300x169.jpg 300w, https://eamonwoortman.github.io/wp-content/uploads/2017/01/Game-768x432.jpg 768w, https://eamonwoortman.github.io/wp-content/uploads/2017/01/Game-1024x576.jpg 1024w, https://eamonwoortman.github.io/wp-content/uploads/2017/01/Game.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure>
 
 
 
-<figure class="wp-block-image"><a href="//eamonwoortman.nl/wp-content/uploads/2017/01/Serverlist.jpg"><img decoding="async" width="300" height="169" src="https://www.eamonwoortman.nl/wp-content/uploads/2017/01/Serverlist-300x169.jpg" alt="" class="wp-image-243" srcset="https://www.eamonwoortman.nl/wp-content/uploads/2017/01/Serverlist-300x169.jpg 300w, https://www.eamonwoortman.nl/wp-content/uploads/2017/01/Serverlist-768x432.jpg 768w, https://www.eamonwoortman.nl/wp-content/uploads/2017/01/Serverlist-1024x576.jpg 1024w, https://www.eamonwoortman.nl/wp-content/uploads/2017/01/Serverlist.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure>
+<figure class="wp-block-image"><a href="//eamonwoortman.nl/wp-content/uploads/2017/01/Serverlist.jpg"><img decoding="async" width="300" height="169" src="https://eamonwoortman.github.io/wp-content/uploads/2017/01/Serverlist-300x169.jpg" alt="" class="wp-image-243" srcset="https://eamonwoortman.github.io/wp-content/uploads/2017/01/Serverlist-300x169.jpg 300w, https://eamonwoortman.github.io/wp-content/uploads/2017/01/Serverlist-768x432.jpg 768w, https://eamonwoortman.github.io/wp-content/uploads/2017/01/Serverlist-1024x576.jpg 1024w, https://eamonwoortman.github.io/wp-content/uploads/2017/01/Serverlist.jpg 1600w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure>
 
 
 
-<figure class="wp-block-image"><a href="//eamonwoortman.nl/wp-content/uploads/2017/01/ET.png"><img decoding="async" width="300" height="212" src="https://www.eamonwoortman.nl/wp-content/uploads/2017/01/ET-300x212.png" alt="" class="wp-image-244" srcset="https://www.eamonwoortman.nl/wp-content/uploads/2017/01/ET-300x212.png 300w, https://www.eamonwoortman.nl/wp-content/uploads/2017/01/ET-768x543.png 768w, https://www.eamonwoortman.nl/wp-content/uploads/2017/01/ET-1024x724.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure>
+<figure class="wp-block-image"><a href="//eamonwoortman.nl/wp-content/uploads/2017/01/ET.png"><img decoding="async" width="300" height="212" src="https://eamonwoortman.github.io/wp-content/uploads/2017/01/ET-300x212.png" alt="" class="wp-image-244" srcset="https://eamonwoortman.github.io/wp-content/uploads/2017/01/ET-300x212.png 300w, https://eamonwoortman.github.io/wp-content/uploads/2017/01/ET-768x543.png 768w, https://eamonwoortman.github.io/wp-content/uploads/2017/01/ET-1024x724.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.eamonwoortman.nl/project/etlive/feed/</wfw:commentRss>
+					<wfw:commentRss>https://eamonwoortman.github.io/project/etlive/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
